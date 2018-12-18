@@ -8,7 +8,7 @@
     "test": "echo \"All good sailor!\" && exit 0",
     "build": "copyfiles index.js lib",
     "prepare": "npm run clean && npm run test",
-    "prepublishOnly": "npm build"
+    "prepublishOnly": "npm run-script build"
   },
   "repository": {
     "type": "git",

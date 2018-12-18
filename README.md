@@ -22,7 +22,7 @@ $ npm install redond-it
 #### CDN
 Simply add the following snippet to your page and you are good to go!
 ```
-<script src="//unpkg.com/jazcarate/redond-it@1.0.0/lib/index.js" crossorigin="anonymous"></script>
+<script src="//unpkg.com/redond-it@1.0.1/lib/index.js" crossorigin="anonymous"></script>
 ```
 
 ## The future is now

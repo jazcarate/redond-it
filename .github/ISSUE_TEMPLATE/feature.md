@@ -5,5 +5,5 @@ Before opening:
 
 Feature requests must include:
 
-- As much detail as possible for what we should add and why it's important to Bootstrap
+- As much detail as possible for what we should add and why it's important to Redond-it
 - Relevant links to prior art, screenshots, or live demos whenever possible

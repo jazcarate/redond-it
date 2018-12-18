@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for a new feature in Bootstrap.
+about: Suggest an idea for a new feature in Redond-it.
 
 ---
 
@@ -11,5 +11,5 @@ Before opening:
 
 Feature requests must include:
 
-- As much detail as possible for what we should add and why it's important to Bootstrap
+- As much detail as possible for what we should add and why it's important to Redond-it
 - Relevant links to prior art, screenshots, or live demos whenever possible

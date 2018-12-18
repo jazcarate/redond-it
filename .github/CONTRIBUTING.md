@@ -34,7 +34,7 @@ restrictions:
 Our bug tracker utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
 
 - `browser bug` - Issues that are reported to us, but actually are the result of a browser-specific bug. These are diagnosed with reduced test cases and result in an issue opened on that browser's own bug tracker.
-- `confirmed` - Issues that have been confirmed with a reduced test case and identify a bug in Bootstrap.
+- `confirmed` - Issues that have been confirmed with a reduced test case and identify a bug in Redond-it.
 - `css` - Issues stemming from our compiled CSS or source Sass files.
 - `docs` - Issues for improving or updating our documentation.
 - `examples` - Issues involving the example templates included in our docs.
@@ -44,7 +44,7 @@ Our bug tracker utilizes several labels to help organize and identify issues. He
 - `js` - Issues stemming from our compiled or source JavaScript files.
 - `meta` - Issues with the project itself or our GitHub repository.
 
-For a complete look at our labels, see the [project labels page](https://github.com/twbs/bootstrap/labels).
+For a complete look at our labels, see the [project labels page](https://github.com/jazcarate/redond-it/labels).
 
 
 ## Bug reports
@@ -125,7 +125,7 @@ included in the project:
    # Clone your fork of the repo into the current directory
    git clone https://github.com/<your-username>/redond-it.git
    # Navigate to the newly cloned directory
-   cd bootstrap
+   cd redond-it
    # Assign the original repo to a remote called "upstream"
    git remote add upstream https://github.com/jazcarate/redond-it.git
    ```

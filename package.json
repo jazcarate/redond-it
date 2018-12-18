@@ -1,0 +1,35 @@
+{
+  "name": "redond-it",
+  "version": "1.0.0",
+  "description": "Humanproof made easy",
+  "main": "./lib/index.js",
+  "scripts": {
+    "clean": "rimraf lib",
+    "test": "echo \"All good sailor!\" && exit 0",
+    "build": "copyfiles index.js lib",
+    "prepare": "npm run clean && npm run test",
+    "prepublishOnly": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazcarate/redond-it.git"
+  },
+  "keywords": [
+    "human",
+    "humanproof",
+    "the future is now"
+  ],
+  "author": "Florius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazcarate/redond-it/issues"
+  },
+  "homepage": "https://github.com/jazcarate/redond-it#readme",
+  "devDependencies": {
+    "copyfiles": "^2.1.0",
+    "rimraf": "^2.6.2"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}

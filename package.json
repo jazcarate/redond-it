@@ -20,6 +20,16 @@
     "the future is now"
   ],
   "author": "Florius",
+  "contributors": [
+    {
+      "name": "Achus",
+      "url": "https://github.com/achus619"
+    },
+    {
+      "name": "Nahuel Garbezza",
+      "url": "https://github.com/ngarbezza"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jazcarate/redond-it/issues"

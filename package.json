@@ -1,6 +1,6 @@
 {
   "name": "redond-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Humanproof made easy",
   "main": "./lib/index.js",
   "scripts": {

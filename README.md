@@ -1,4 +1,5 @@
  # Redond-it
+ 
 [![Build Status](https://travis-ci.org/jazcarate/redond-it.svg?branch=master)](https://travis-ci.org/jazcarate/redond-it) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 From the spanish word "Redondear" which means "to shaped like a circle or cylinder" comes this niffty library all projects should start using in order to human-proof their website.

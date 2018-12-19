@@ -1,6 +1,10 @@
  # Redond-it
  
-[![Build Status](https://travis-ci.org/jazcarate/redond-it.svg?branch=master)](https://travis-ci.org/jazcarate/redond-it) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/jazcarate/redond-it.svg?branch=master)](https://travis-ci.org/jazcarate/redond-it) [![Node deps](https://img.shields.io/david/jazcarate/redond-it.svg)](https://www.npmjs.com/package/redond-it) [![NPM package version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=1.0.2&x2=0)](https://www.npmjs.com/package/redond-it)
+[![Releases](https://img.shields.io/github/release/jazcarate/redond-it.svg)](https://github.com/jazcarate/redond-it/releases)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+
+
 
 From the spanish word "Redondear" which means "to shaped like a circle or cylinder" comes this niffty library all projects should start using in order to human-proof their website.
 

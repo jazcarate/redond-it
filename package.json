@@ -1,6 +1,6 @@
 {
   "name": "redond-it",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Humanproof made easy",
   "main": "./lib/index.js",
   "scripts": {
@@ -36,8 +36,8 @@
   },
   "homepage": "https://github.com/jazcarate/redond-it#readme",
   "devDependencies": {
-    "copyfiles": "^2.1.0",
-    "rimraf": "^2.6.2"
+    "copyfiles": "^2.1.1",
+    "rimraf": "^2.6.3"
   },
   "engines": {
     "node": ">=6"
